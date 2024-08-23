@@ -1,0 +1,11 @@
+		LIST 
+. List()Constructor.
+. Accessing List .
+. Range
+. Checking values  in List
+. Changing values in List
+ >insert items
+>Append 
+> extends list
+> Remove 
+ 
